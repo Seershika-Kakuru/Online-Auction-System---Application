@@ -1,4 +1,4 @@
-# Online-Auction-System---Application
+# Online-Auction-System
 
 ## Overview:
 This is a three-tier application that consists of the following:
@@ -40,8 +40,8 @@ This is a three-tier application that consists of the following:
 - mySQL: Querying language to create and manage the database on the backend.
 - IDEA used: Eclipse
 
-  ## NOTE 1: SEE THE MAIN BRANCH FOR THE APPLICATION CODE
-  ## This is a project that is done exclusively as part of a Rutgers Computer Science class and cannot be plagiarized, please refer to the Rutgers Academic Integrity Policy before committing to any action.
+## SEE THE MAIN BRANCH FOR THE APPLICATION CODE
+## IMPORTANT NOTE: This is a project that is done exclusively as part of a Rutgers Computer Science class and cannot be plagiarized, please refer to the Rutgers Academic Integrity Policy before committing to any action.
 
   
 
